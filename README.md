@@ -7,3 +7,4 @@
 | `index.html`、`index-en.html` | サポートのページ（日本語、英語） |
 | `privacy.html`、`privacy-en.html` | プライバシーポリシー（日本語、英語） |
 | `app-ads.txt` | 広告（AdMob）用 |
+| `store/ja/`、`store/en/` | App Store に出すスクリーンショット（日本語、英語） |
